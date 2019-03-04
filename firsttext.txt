@@ -6,5 +6,8 @@ keep calm until that day.
 Love Your self first.
 =======
 --Love Your self first.
+<<<<<<< HEAD
+>>>>>>> ddbae9e... Added files
+=======
 >>>>>>> ddbae9e... Added files
 hello good morning
