@@ -2,5 +2,9 @@ every day is important
 but one day will prove  what you are
 don't worry .
 keep calm until that day.
+<<<<<<< HEAD
 Love Your self first.
+=======
+--Love Your self first.
+>>>>>>> ddbae9e... Added files
 hello good morning
