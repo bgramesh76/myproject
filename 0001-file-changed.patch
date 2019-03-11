@@ -1,0 +1,32 @@
+From 27b6877cf53627337c0469190e2a63c37df9def4 Mon Sep 17 00:00:00 2001
+From: Ramesh <venkatarameshkumar76@gmail.com>
+Date: Mon, 4 Mar 2019 15:15:01 +0530
+Subject: [PATCH 1/1] file changed
+
+---
+ firsttext.txt | 15 ++-------------
+ 1 file changed, 2 insertions(+), 13 deletions(-)
+
+diff --git a/firsttext.txt b/firsttext.txt
+index 89f63b9..a67e398 100755
+--- a/firsttext.txt
++++ b/firsttext.txt
+@@ -1,13 +1,2 @@
+-every day is important 
+-but one day will prove  what you are
+-don't worry .
+-keep calm until that day.
+-<<<<<<< HEAD
+-Love Your self first.
+-=======
+---Love Your self first.
+-<<<<<<< HEAD
+->>>>>>> ddbae9e... Added files
+-=======
+->>>>>>> ddbae9e... Added files
+-hello good morning
++welcome 
++thank you
+-- 
+2.17.1
+
